@@ -1,5 +1,14 @@
 @import '';
 
+/* _content/Pinion/Pages/Home/HomeContent.razor.rz.scp.css */
+.pinion-form[b-98j0xme6y6]{
+    height: 30%;
+}
+
+.pinion-text[b-98j0xme6y6] {
+    height: 100%;
+    width: 100%
+}
 /* _content/Pinion/Shared/MainLayout.razor.rz.scp.css */
 /*.page {
     position: relative;
@@ -154,4 +163,8 @@
 .side-nav-grid[b-443o10cu7x]{
     display:grid;
     grid-template-columns: 1fr;
+}
+/* _content/Pinion/Shared/PageHeader.razor.rz.scp.css */
+#header[b-803vpdutx7]{
+    border-bottom:solid;
 }

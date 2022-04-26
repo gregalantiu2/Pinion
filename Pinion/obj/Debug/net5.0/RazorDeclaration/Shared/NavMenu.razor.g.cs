@@ -82,6 +82,13 @@ using Pinion.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/_Imports.razor"
+using Pinion.Pages.Home;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -90,9 +97,8 @@ using Pinion.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 47 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/Shared/NavMenu.razor"
+#line 12 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/Shared/NavMenu.razor"
        
-
     private string[] NavItems = new string[] { "Home","Explore","Notifications" };
 
 #line default

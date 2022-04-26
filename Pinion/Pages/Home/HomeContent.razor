@@ -1,5 +1,18 @@
-﻿<PageHeader Title="Home"></PageHeader>
+﻿@page "/"
 
-@code {
+<PageHeader Title="Home"></PageHeader>
 
-}
+<EditForm Model="@pinionModel" OnValidSubmit="@HandleValidSubmit" class="pinion-form">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="pinion-text">
+        <InputTextArea class="pinion-text" @bind-Value="pinionModel.PinionText" />
+    </div>
+
+    <button type="submit">Submit</button>
+</EditForm>
+
+
+
+

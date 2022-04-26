@@ -48,3 +48,13 @@ a, .btn-link {
         right: 0.75rem;
         top: 0.5rem;
     }
+
+/*home styles*/
+.pinion-form {
+    height: 30%;
+}
+
+.pinion-text {
+    height: 100%;
+    width: 100%
+}

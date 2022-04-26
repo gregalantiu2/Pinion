@@ -8,6 +8,7 @@
   <ItemGroup>
     <None Remove="Pages\Examples\" />
     <None Remove="Pages\Home\" />
+    <None Remove="Models\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
@@ -24,5 +25,6 @@
   <ItemGroup>
     <Folder Include="Pages\Examples\" />
     <Folder Include="Pages\Home\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 </Project>

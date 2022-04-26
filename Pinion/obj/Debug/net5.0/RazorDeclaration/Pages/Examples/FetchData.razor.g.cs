@@ -83,6 +83,13 @@ using Pinion.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 11 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/_Imports.razor"
+using Pinion.Pages.Home;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/Pages/Examples/FetchData.razor"
 using Pinion.Data;
 

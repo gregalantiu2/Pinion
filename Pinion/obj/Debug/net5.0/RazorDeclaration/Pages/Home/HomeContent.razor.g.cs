@@ -82,6 +82,14 @@ using Pinion.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/_Imports.razor"
+using Pinion.Pages.Home;
+
+#line default
+#line hidden
+#nullable disable
+    [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class HomeContent : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

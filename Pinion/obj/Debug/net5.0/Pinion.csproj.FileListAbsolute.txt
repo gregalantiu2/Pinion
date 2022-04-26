@@ -103,3 +103,6 @@
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/obj/Debug/net5.0/ref/Pinion.dll
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/obj/Debug/net5.0/Pinion.pdb
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/obj/Debug/net5.0/Pinion.genruntimeconfig.cache
+/Users/School/Documents/Non-School-Repos/Pinion/Pinion/obj/Debug/net5.0/Pinion.csproj.AssemblyReference.cache
+/Users/School/Documents/Non-School-Repos/Pinion/Pinion/obj/Debug/net5.0/scopedcss/Shared/PageHeader.razor.rz.scp.css
+/Users/School/Documents/Non-School-Repos/Pinion/Pinion/obj/Debug/net5.0/scopedcss/Pages/Home/HomeContent.razor.rz.scp.css

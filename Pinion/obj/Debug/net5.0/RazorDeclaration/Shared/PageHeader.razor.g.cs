@@ -82,6 +82,13 @@ using Pinion.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/_Imports.razor"
+using Pinion.Pages.Home;
+
+#line default
+#line hidden
+#nullable disable
     public partial class PageHeader : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -90,7 +97,7 @@ using Pinion.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 3 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/Shared/PageHeader.razor"
+#line 5 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/Shared/PageHeader.razor"
        
     [Parameter]
     public string Title { get; set; }
