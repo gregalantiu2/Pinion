@@ -89,6 +89,13 @@ using Pinion.Pages.Home;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/Pages/Home/HomeContent.razor"
+using MatBlazor;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class HomeContent : Microsoft.AspNetCore.Components.ComponentBase
     {

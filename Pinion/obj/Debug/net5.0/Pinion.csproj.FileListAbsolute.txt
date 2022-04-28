@@ -106,3 +106,5 @@
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/obj/Debug/net5.0/Pinion.csproj.AssemblyReference.cache
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/obj/Debug/net5.0/scopedcss/Shared/PageHeader.razor.rz.scp.css
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/obj/Debug/net5.0/scopedcss/Pages/Home/HomeContent.razor.rz.scp.css
+/Users/School/Documents/Non-School-Repos/Pinion/Pinion/bin/Debug/net5.0/MatBlazor.dll
+/Users/School/Documents/Non-School-Repos/Pinion/Pinion/bin/Debug/net5.0/Pinion

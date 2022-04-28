@@ -86,6 +86,13 @@ using Pinion.Pages.Home;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 12 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/_Imports.razor"
+using MatBlazor;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/counter")]
     public partial class Counter : Microsoft.AspNetCore.Components.ComponentBase
     {

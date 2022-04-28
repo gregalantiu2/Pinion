@@ -2,15 +2,16 @@
   <MonoDevelop.Ide.ItemProperties.Pinion PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Pinion/Pages/Home/HomeContent.razor">
     <Files>
-      <File FileName="Pinion/Pages/Home/HomeContent.razor" Line="10" Column="23" />
-      <File FileName="Pinion/Models/PinionModel.cs" Line="1" Column="1" />
-      <File FileName="Pinion/Pages/Home/HomeContent.razor.cs" Line="1" Column="1" />
-      <File FileName="Pinion/Pages/Home/HomeContent.razor.css" Line="1" Column="1" />
-      <File FileName="Pinion/Shared/NavMenu.razor.css" Line="1" Column="1" />
-      <File FileName="Pinion/Pages/_Host.cshtml" Line="17" Column="55" />
-      <File FileName="Pinion/Shared/NavMenu.razor" Line="1" Column="1" />
-      <File FileName="Pinion/wwwroot/css/site.css" Line="56" Column="1" />
-      <File FileName="Pinion/_Imports.razor" Line="11" Column="25" />
+      <File FileName="Pinion/Pages/Home/HomeContent.razor" Line="10" Column="5" />
+      <File FileName="Pinion/Models/PinionModel.cs" />
+      <File FileName="Pinion/Pages/Home/HomeContent.razor.cs" />
+      <File FileName="Pinion/Pages/Home/HomeContent.razor.css" />
+      <File FileName="Pinion/Shared/NavMenu.razor.css" />
+      <File FileName="Pinion/Pages/_Host.cshtml" Line="19" Column="75" />
+      <File FileName="Pinion/Shared/NavMenu.razor" />
+      <File FileName="Pinion/wwwroot/css/site.css" />
+      <File FileName="Pinion/_Imports.razor" Line="13" Column="1" />
+      <File FileName="Pinion/Startup.cs" Line="45" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

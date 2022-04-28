@@ -1,4 +1,5 @@
 ﻿@page "/"
+@using MatBlazor
 
 <PageHeader Title="Home"></PageHeader>
 
@@ -6,13 +7,12 @@
     <DataAnnotationsValidator />
     <ValidationSummary />
 
-    <div class="pinion-text">
-        <InputTextArea class="pinion-text" @bind-Value="pinionModel.PinionText" />
-    </div>
+    <MatTextField @bind-Value="@pinionModel.PinionText" Label="Up to 255 characters" TextArea="true" FullWidth="true"></MatTextField>
 
-    <button type="submit">Submit</button>
+    <MatButton>Submit</MatButton>
 </EditForm>
 
+<h2>Greg</h2>
 
 
 

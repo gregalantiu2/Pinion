@@ -9,6 +9,7 @@
     <None Remove="Pages\Examples\" />
     <None Remove="Pages\Home\" />
     <None Remove="Models\" />
+    <None Remove="MatBlazor" />
   </ItemGroup>
   <ItemGroup>
     <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
@@ -20,6 +21,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.11" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.11" />
+    <PackageReference Include="MatBlazor" Version="2.8.0" />
   </ItemGroup>
 
   <ItemGroup>
