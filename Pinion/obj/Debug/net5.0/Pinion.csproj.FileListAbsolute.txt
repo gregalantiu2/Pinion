@@ -6,7 +6,6 @@
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/bin/Debug/net5.0/Pinion.runtimeconfig.json
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/bin/Debug/net5.0/Pinion.runtimeconfig.dev.json
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/bin/Debug/net5.0/Pinion.dll
-/Users/School/Documents/Non-School-Repos/Pinion/Pinion/bin/Debug/net5.0/ref/Pinion.dll
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/bin/Debug/net5.0/Pinion.pdb
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/bin/Debug/net5.0/Pinion.Views.dll
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/bin/Debug/net5.0/Pinion.Views.pdb
@@ -108,3 +107,4 @@
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/obj/Debug/net5.0/scopedcss/Pages/Home/HomeContent.razor.rz.scp.css
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/bin/Debug/net5.0/MatBlazor.dll
 /Users/School/Documents/Non-School-Repos/Pinion/Pinion/bin/Debug/net5.0/Pinion
+/Users/School/Documents/Non-School-Repos/Pinion/Pinion/obj/Debug/net5.0/refint/Pinion.dll

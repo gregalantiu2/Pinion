@@ -89,7 +89,8 @@
 }
 
 .layout[b-ad269jif9l]{
-    border:solid;
+    border: 1px solid;
+    border-color: #9c27b0;
 }
 
 #nav-bar[b-ad269jif9l]{
@@ -167,4 +168,5 @@
 /* _content/Pinion/Shared/PageHeader.razor.rz.scp.css */
 #header[b-803vpdutx7]{
     border-bottom:solid;
+    border-color: #9c27b0;
 }

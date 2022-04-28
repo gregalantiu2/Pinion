@@ -104,7 +104,7 @@ using MatBlazor;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 12 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/Shared/NavMenu.razor"
+#line 15 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/Shared/NavMenu.razor"
        
     private string[] NavItems = new string[] { "Home","Explore","Notifications" };
 

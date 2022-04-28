@@ -45,6 +45,39 @@
         }
       },
       {
+        "HashCode": 1500265544,
+        "Kind": "Components.Component",
+        "Name": "Pinion.Pages.Examples.Counter",
+        "AssemblyName": "Pinion",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Pinion.Pages.Examples.Counter"
+        }
+      },
+      {
+        "HashCode": 141226530,
+        "Kind": "Components.Component",
+        "Name": "Pinion.Pages.Examples.Counter",
+        "AssemblyName": "Pinion",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Pinion.Pages.Examples.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Pinion.Pages.Examples.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1061624362,
         "Kind": "Components.Component",
         "Name": "Pinion.Pages.Examples.FetchData",
@@ -107,39 +140,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Pinion.Pages.Examples.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1500265544,
-        "Kind": "Components.Component",
-        "Name": "Pinion.Pages.Examples.Counter",
-        "AssemblyName": "Pinion",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Pinion.Pages.Examples.Counter"
-        }
-      },
-      {
-        "HashCode": 141226530,
-        "Kind": "Components.Component",
-        "Name": "Pinion.Pages.Examples.Counter",
-        "AssemblyName": "Pinion",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Pinion.Pages.Examples.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Pinion.Pages.Examples.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -230,35 +230,35 @@
         }
       },
       {
-        "HashCode": -1429123854,
+        "HashCode": 193602466,
         "Kind": "Components.Component",
-        "Name": "Pinion.Shared.NavMenu",
+        "Name": "Pinion.Shared.LoginDisplay",
         "AssemblyName": "Pinion",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "LoginDisplay"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Pinion.Shared.NavMenu"
+          "Common.TypeName": "Pinion.Shared.LoginDisplay"
         }
       },
       {
-        "HashCode": 500759072,
+        "HashCode": -1529973318,
         "Kind": "Components.Component",
-        "Name": "Pinion.Shared.NavMenu",
+        "Name": "Pinion.Shared.LoginDisplay",
         "AssemblyName": "Pinion",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Pinion.Shared.NavMenu"
+            "TagName": "Pinion.Shared.LoginDisplay"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Pinion.Shared.NavMenu",
+          "Common.TypeName": "Pinion.Shared.LoginDisplay",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -296,88 +296,35 @@
         }
       },
       {
-        "HashCode": 193602466,
+        "HashCode": -1429123854,
         "Kind": "Components.Component",
-        "Name": "Pinion.Shared.LoginDisplay",
+        "Name": "Pinion.Shared.NavMenu",
         "AssemblyName": "Pinion",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "LoginDisplay"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Pinion.Shared.LoginDisplay"
+          "Common.TypeName": "Pinion.Shared.NavMenu"
         }
       },
       {
-        "HashCode": -1529973318,
+        "HashCode": 500759072,
         "Kind": "Components.Component",
-        "Name": "Pinion.Shared.LoginDisplay",
+        "Name": "Pinion.Shared.NavMenu",
         "AssemblyName": "Pinion",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Pinion.Shared.LoginDisplay"
+            "TagName": "Pinion.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Pinion.Shared.LoginDisplay",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1635989441,
-        "Kind": "Components.Component",
-        "Name": "Pinion.Shared.PageHeader",
-        "AssemblyName": "Pinion",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PageHeader"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Pinion.Shared.PageHeader"
-        }
-      },
-      {
-        "HashCode": 52548734,
-        "Kind": "Components.Component",
-        "Name": "Pinion.Shared.PageHeader",
-        "AssemblyName": "Pinion",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Pinion.Shared.PageHeader"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Pinion.Shared.PageHeader",
+          "Common.TypeName": "Pinion.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -474,6 +421,59 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "Pinion.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1635989441,
+        "Kind": "Components.Component",
+        "Name": "Pinion.Shared.PageHeader",
+        "AssemblyName": "Pinion",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PageHeader"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Pinion.Shared.PageHeader"
+        }
+      },
+      {
+        "HashCode": 52548734,
+        "Kind": "Components.Component",
+        "Name": "Pinion.Shared.PageHeader",
+        "AssemblyName": "Pinion",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Pinion.Shared.PageHeader"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Pinion.Shared.PageHeader",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

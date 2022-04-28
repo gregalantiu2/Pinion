@@ -1,11 +1,14 @@
 ﻿
 <div class="side-nav-grid">
-    @foreach (var item in NavItems)
-    {
-        <NavLink class="nav-link nav-item" href="" Match="NavLinkMatch.All">
-            @item
-        </NavLink>
-    }
+    <MatNavMenu>
+        @foreach (var item in NavItems)
+        {
+            <MatNavItem href="" Match="NavLinkMatch.All">
+                @item
+            </MatNavItem>
+        }
+    </MatNavMenu>
+    
 </div>
 
 

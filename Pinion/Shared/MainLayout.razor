@@ -1,5 +1,7 @@
 ﻿@inherits LayoutComponentBase
 
+<MatThemeProvider Theme="@theme1">
+
 <div class="home-grid">
     <div id="nav-bar" class="layout">
         <NavMenu />
@@ -11,3 +13,13 @@
 
     </div>
 </div>
+</MatThemeProvider>
+
+@code
+{
+    MatTheme theme1 = new MatTheme()
+    {
+        Primary = MatThemeColors.Purple._500.Value,
+        Secondary = MatThemeColors.Purple._500.Value
+    };
+}

@@ -103,6 +103,18 @@ using MatBlazor;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 19 "/Users/School/Documents/Non-School-Repos/Pinion/Pinion/Shared/MainLayout.razor"
+ 
+    MatTheme theme1 = new MatTheme()
+    {
+        Primary = MatThemeColors.Purple._500.Value,
+        Secondary = MatThemeColors.Purple._500.Value
+    };
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
